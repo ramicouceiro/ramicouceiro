@@ -14,8 +14,9 @@
 
 ## 🌐 Contact Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramirocouceiro)
-[![Mail](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramirocouceiro)
+\*[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramirocouceiro)
+
+\*[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/ramirocouceiro)
 
 ### ✍️ Random Dev Quote
 
