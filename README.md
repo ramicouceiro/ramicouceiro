@@ -1,6 +1,6 @@
 # 🙍‍♂️ About Me:
 
-🙌 My name is Ramiro Couceiro<br>🖥️ Front-End Web Developer<br>🔜 Currently learning NodeJS / MongoDB / MySQL<br><br>🔍 Open to work!
+🙌 My name is Ramiro Couceiro<br>🖥️ Front-End Web Developer<br>🔜 Currently learning NodeJS / MongoDB / MySQL at [NUCBA]([https://www.genome.gov/](https://www.nucba.com.ar/))<br><br>🔍 Open to work!
 
 # 💻 Tech Stack:
 
