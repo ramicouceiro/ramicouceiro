@@ -1,4 +1,4 @@
-# 👌 About Me:
+# 🙍‍♂️ About Me:
 
 🙌 My name is Ramiro Couceiro<br>🖥️ Front-End Web Developer<br>🔜 Currently learning NodeJS / MongoDB / MySQL<br><br>🔍 Open to work!
 
